@@ -1,4 +1,4 @@
-<img width="1083" height="482" alt="image" src="https://github.com/user-attachments/assets/129c88db-d113-42a5-b53e-14580bee72d8" />🚀 Incident Management Automation – ServiceNow Project 📌 Overview This project aims to automate and standardize the Incident Management lifecycle using ServiceNow’s Incident module.
+🚀 Incident Management Automation – ServiceNow Project 📌 Overview This project aims to automate and standardize the Incident Management lifecycle using ServiceNow’s Incident module.
 The solution improves efficiency, SLA compliance, and service visibility by integrating automation across incident creation, classification, escalation, resolution, and knowledge management.
 
 🎯 Business Objectives
